@@ -1,5 +1,5 @@
 
-# Hi there👋, I'm Miguel Rodriguez
+# Hello👋, I'm Miguel Rodriguez
 I'm a software developer experienced in web development technologies, especially in the front end, with a decent background in cloud services and mobile development. 
 
 👉 Feel free to reach me at [my email](mailto:miguel.rodev@gmail.com) :]
