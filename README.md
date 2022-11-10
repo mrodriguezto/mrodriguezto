@@ -16,7 +16,7 @@ I'm a software developer experienced in web development technologies, especially
 
 ### Some stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrodriguezto&layout=compact&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrodriguezto&count_private=true&hide=issues&show_icons=true&theme=tokyonight)
 
